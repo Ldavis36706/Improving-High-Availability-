@@ -27,8 +27,31 @@ In this project, I addressed a problem related to increasing the high availabili
 
 <p align="center">
 
-Creating a launch template:
+Create a launch template:
  <br/>
 ![Launch Template Successful](https://github.com/user-attachments/assets/3ce5c01e-b5a0-4603-b9d4-1038531ea41f)
 
 <br />
+
+Create an auto-scaling group:
+ <br/>
+![Successful Auto Scaling Group](https://github.com/user-attachments/assets/5e0e6e66-d97f-4be9-9c0c-725d9d5f0599)
+
+
+<br />
+
+Verify an auto-scaling group by terminating an instance:
+ <br/>
+![Terminate Instance](https://github.com/user-attachments/assets/eac70203-b18c-4520-9c6d-a7bc5664b58a)
+
+
+<br />
+
+Test to see if a replacement instance was launched:
+ <br/>
+![New Instance Created after first stopped](https://github.com/user-attachments/assets/50a5c23a-b4af-48d5-aa1c-a997da43dd12)
+
+
+
+
+
