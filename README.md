@@ -28,5 +28,6 @@ In this project, I addressed a problem related to increasing the high availabili
 <p align="center">
 
 Creating a launch template: <br/>
-![ Creating a launch template]([https://imgur.com/a/V8pT1cT](https://imgur.com/a/acLLfGw))
+![Launch Template Successful](https://github.com/user-attachments/assets/3ce5c01e-b5a0-4603-b9d4-1038531ea41f)
+
 <br />
