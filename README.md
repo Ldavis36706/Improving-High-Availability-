@@ -27,7 +27,11 @@ In this project, I addressed a problem related to increasing the high availabili
 
 <p align="center">
 
-Creating a launch template: <br/>
+Creating a launch template:
+1.	Access the AWS Management Console and navigated to EC2.
+2.	Create a Launch Template that defined the configuration for EC2 instances, including the AMI, instance type, security group, and key pair.
+3.	Specify configurations for network, storage, and user data scripts (if any).
+ <br/>
 ![Launch Template Successful](https://github.com/user-attachments/assets/3ce5c01e-b5a0-4603-b9d4-1038531ea41f)
 
 <br />
