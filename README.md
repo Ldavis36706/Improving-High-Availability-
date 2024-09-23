@@ -40,14 +40,14 @@ Create an auto-scaling group:
 
 <br />
 
-Verify an auto-scaling group by terminating an instance:
+Test auto-scaling group by terminating an instance:
  <br/>
 ![Terminate Instance](https://github.com/user-attachments/assets/eac70203-b18c-4520-9c6d-a7bc5664b58a)
 
 
 <br />
 
-Test to see if a replacement instance was launched:
+Check to see if a replacement instance was launched:
  <br/>
 ![New Instance Created after first stopped](https://github.com/user-attachments/assets/50a5c23a-b4af-48d5-aa1c-a997da43dd12)
 
