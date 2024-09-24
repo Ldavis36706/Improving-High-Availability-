@@ -51,7 +51,9 @@ Check to see if a replacement instance was launched:
  <br/>
 ![New Instance Created after first stopped](https://github.com/user-attachments/assets/50a5c23a-b4af-48d5-aa1c-a997da43dd12)
 
-
+<h2>Summary</h2>
+The application was running on two Amazon EC2 instances, but both instances were hosted in a single Availability Zone. This setup presented a risk of downtime if the Availability Zone experienced any issues, compromising the application's high availability. To improve the resilience of the application, I needed to redesign the architecture by distributing the EC2 instances across multiple Availability Zones. This required implementing an Auto Scaling group and ensuring the instances could scale automatically based on traffic demand, while maintaining load distribution with a Network Load Balancer. I started by creating a launch template to standardize the EC2 instance configuration, including the Amazon Machine Image (AMI) and instance type. Next, I set up an Auto Scaling group that extended the instances across multiple Availability Zones, defining minimum and maximum instance limits for optimal scaling. I then integrated the Auto Scaling group with a Network Load Balancer to efficiently distribute incoming traffic across all running instances. Finally, I monitored the system using AWS CloudWatch to verify the scaling activities and instance health. By implementing these changes, I enhanced the application's high availability and fault tolerance. The Auto Scaling group ensured that instances could be automatically launched or terminated based on demand, and the Network Load Balancer distributed traffic effectively. This architecture minimized downtime risks and optimized resource usage, making the system more resilient to potential failures.
+<br />
 
 
 
