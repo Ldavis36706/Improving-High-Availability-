@@ -21,7 +21,7 @@ In this project, I addressed a problem related to increasing the high availabili
 
 - <b>Cloud Platform:
 •	AWS (Amazon Web Services): This project was conducted entirely in AWS, utilizing several of its services.
-</b> (21H2)
+</b> 
 
 <h2>Program walk-through:</h2>
 
