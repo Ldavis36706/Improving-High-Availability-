@@ -29,11 +29,13 @@ In this project, I addressed a problem related to increasing the high availabili
 
 Create a launch template:
  <br/>
+ <br/>
 ![Launch Template Successful](https://github.com/user-attachments/assets/3ce5c01e-b5a0-4603-b9d4-1038531ea41f)
 
 <br />
 
 Create an auto-scaling group:
+ <br/>
  <br/>
 ![Successful Auto Scaling Group](https://github.com/user-attachments/assets/5e0e6e66-d97f-4be9-9c0c-725d9d5f0599)
 
@@ -41,6 +43,7 @@ Create an auto-scaling group:
 <br />
 
 Test auto-scaling group by terminating an instance:
+ <br/>
  <br/>
 ![Terminate Instance](https://github.com/user-attachments/assets/eac70203-b18c-4520-9c6d-a7bc5664b58a)
 
